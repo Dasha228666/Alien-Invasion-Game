@@ -12,7 +12,7 @@
 для создания сетки элементов, как отслеживать статистику в игре и использовать флаги для определения окончания игры.
 
 ## Демонстрация:
-![the game process](C:sl/sdfjsd/, "Начало игры Alien Invasion")
+<img src="https://github.com/Dasha228666/Alien-Invasion-Game/blob/master/images/alien_invision.png">
 
 ### Как играть
 
